@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm a Passionate Full Stack Developer and Data Analyst from India. <br>I thrive on solving complex problems and love to code. <br>With a strong foundation in both front-end and back-end technologies, I’m dedicated to creating efficient and scalable solutions.
+Hi there! 👋<br>
+I’m a final-year Computer Science undergraduate at IISER Bhopal, working in Machine Learning and NLP.<br>
+I enjoy building end-to-end data-driven systems — from data processing pipelines to model development and evaluation.<br>
+My work focuses on representation learning, large-scale text data, and applying ML to real-world problems.<br>
+I also have a background in optimization and quantitative modeling, which informs my approach to designing robust systems.
 
 
 ## 🌐 Socials:
